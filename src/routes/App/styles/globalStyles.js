@@ -58,10 +58,10 @@ export const GlobalStyles = createGlobalStyle`
     color: ${({ theme }) => theme.textarea};
   }
 
-.sc-bdnxRM .ezFNyZ .feather.feather-moon {
+.sc-bdnxRM .jvCTkj .feather.feather-moon {
  
 }
-.ezFNyZ
+.jvCTkj
 {
   top: 10rem;
   right: 15rem;
