@@ -57,11 +57,14 @@ export const GlobalStyles = createGlobalStyle`
     background-color: ${({ theme }) => theme.input};
     color: ${({ theme }) => theme.textarea};
   }
+
+.sc-bdnxRM .ezFNyZ .feather.feather-moon {
  
+}
 .ezFNyZ
 {
-  top: 10rem;
-  right: 13rem;
+  top: 6rem;
+  right: 7rem;
 }
 `;
 

@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/_app.scss';
 import { useDarkMode } from '../styles/useDarkMode';
-//import { useDarkMode } from './styles/useDarkMode';
 import { GlobalStyles, lightTheme, darkTheme } from '../styles/globalStyles';
 import  { ThemeProvider } from 'styled-components';
 import {Toggle } from '../components/Toggle'
