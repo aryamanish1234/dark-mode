@@ -63,8 +63,8 @@ export const GlobalStyles = createGlobalStyle`
 }
 .ezFNyZ
 {
-  top: 6rem;
-  right: 7rem;
+  top: 10rem;
+  right: 15rem;
 }
 `;
 
